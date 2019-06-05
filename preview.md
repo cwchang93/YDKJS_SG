@@ -28,6 +28,9 @@ B. Mac: <br>
 2. windows 安裝ijavascript的bug 
 </a>
 
+#### 推薦流程圖套件軟體
+1. xmind
+2. mindup
 
 #### 未來規劃
 ``` 
