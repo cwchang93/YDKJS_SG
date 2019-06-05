@@ -29,8 +29,8 @@ B. Mac: <br>
 </a>
 
 #### 推薦流程圖套件軟體
-1. xmind
-2. mindup
+1. <a href="https://www.xmind.net/">Xmind</a>
+2. <a href="https://drive.mindmup.com/">MindMup2.0 </a>
 
 #### 未來規劃
 ``` 
