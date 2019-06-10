@@ -11,6 +11,11 @@ Chrome: V8
 Firefox: Spider Monkey
 Safari: Nitro Engine
 ```
+```python
+print('hi')
+
+```
+
 
 #### Code的編譯過程
 
